@@ -130,3 +130,36 @@ For this project, we are using a **[insert: Low-Fidelity or High-Fidelity] wiref
 "We chose a low-fidelity wireframe to rapidly iterate and focus on layout structure and functionality without getting distracted by visual design elements. This helps clarify the user flow early in the design phase."]
 
 
+## Popular Wireframing Tools
+
+There are many tools available for creating wireframes, ranging from simple sketching apps to powerful collaborative platforms. Choosing the right tool depends on the project's needs, your team's workflow, and the level of fidelity required.
+
+### 🛠️ Commonly Used Wireframing Tools
+
+- **Figma** – Cloud-based design tool known for its real-time collaboration features
+- **Balsamiq** – Great for low-fidelity wireframes with a sketch-like look
+- **Adobe XD** – A powerful tool for both wireframing and high-fidelity prototyping
+- **Sketch** – Popular for macOS users, often used in high-fidelity UI design
+- **Axure RP** – Advanced wireframing with built-in logic and interactive features
+
+---
+
+## Why Use Figma for Wireframing?
+
+**Figma** stands out as a highly recommended tool for both beginners and professionals due to its powerful features and accessible platform.
+
+### 🔹 Key Features of Figma:
+- **Browser-Based Access**: No installation needed—design from any device.
+- **Real-Time Collaboration**: Multiple users can work on the same file simultaneously.
+- **Components and Styles**: Reusable elements make updating designs faster and more consistent.
+- **Version History**: Easily track changes and restore earlier versions.
+- **Interactive Prototyping**: Link screens together to simulate user flows and test UI logic.
+- **Community Resources**: Tons of free templates and UI kits available for inspiration.
+
+### 🔸 Why Figma is Ideal for Wireframing:
+- Enables rapid layout creation using basic shapes and frames
+- Allows clear organization of design flows using pages and artboards
+- Supports both low-fidelity and high-fidelity wireframes in a single environment
+- Collaboration features make it perfect for teams and stakeholder feedback
+
+Whether you're just sketching an idea or building an interactive prototype, Figma adapts to every phase of the design process.
