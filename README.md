@@ -84,3 +84,49 @@ A login page wireframe might show two input fields for username and password, a 
 ---
 
 Each of these elements contributes to designing a user-friendly, effective interface by focusing on usability and clarity before visual aesthetics.
+
+## Types of Wireframes
+
+Wireframes come in various levels of detail and fidelity, depending on the stage of the design process and the goals of the project. The two most common types are **low-fidelity** and **high-fidelity** wireframes.
+
+---
+
+### 🔹 Low-Fidelity Wireframes
+
+**Description:**  
+Low-fidelity (lo-fi) wireframes are basic sketches or grayscale representations of a layout. They focus on structure, user flow, and content hierarchy without worrying about exact design details such as fonts, colors, or images.
+
+**When to Use:**  
+- During brainstorming and early ideation stages  
+- For quick iteration and experimentation  
+- When presenting rough concepts to stakeholders for feedback
+
+**Tools Used:**  
+Paper, whiteboards, or simple digital tools like Figma (in wireframe mode), Balsamiq
+
+---
+
+### 🔹 High-Fidelity Wireframes
+
+**Description:**  
+High-fidelity (hi-fi) wireframes are more detailed and visually polished. They closely resemble the final design and may include typography, spacing, images, UI components, and sometimes limited interactivity.
+
+**When to Use:**  
+- Before development starts  
+- When gathering detailed stakeholder feedback  
+- For user testing with near-realistic visuals
+
+**Tools Used:**  
+Figma, Adobe XD, Sketch
+
+---
+
+## Type of Wireframe Used in This Project
+
+For this project, we are using a **[insert: Low-Fidelity or High-Fidelity] wireframe**.
+
+**Reason:**  
+[Explain why you chose this type of wireframe. For example:  
+"We chose a low-fidelity wireframe to rapidly iterate and focus on layout structure and functionality without getting distracted by visual design elements. This helps clarify the user flow early in the design phase."]
+
+
