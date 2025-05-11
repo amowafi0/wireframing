@@ -38,3 +38,49 @@ Wireframes form the foundation for UI design and front-end implementation. They 
 ---
 
 This sets a clear foundation in your GitHub repo. Do you want help drafting the next section for **Types of Wireframes** or moving to the Figma task next?
+
+## Key Elements in a Wireframe
+
+Wireframes include several foundational components that define how a user will interact with a digital product. These elements work together to build a clear and functional user experience.
+
+### 🔷 Layout Structure
+
+**Definition:**  
+The layout structure defines the arrangement of components on a page. It determines the placement of headers, footers, sidebars, main content areas, and other structural blocks.
+
+**Example Contribution:**  
+A homepage wireframe may place a navigation bar at the top, a main banner image below it, and product categories arranged in a grid. This structure helps users immediately orient themselves and find what they’re looking for quickly.
+
+---
+
+### 🔷 Navigation
+
+**Definition:**  
+Navigation components include menus, sidebars, breadcrumbs, and links that allow users to move between pages or sections within the application.
+
+**Example Contribution:**  
+A wireframe might include a top navigation bar with links to "Home," "Shop," "About," and "Contact." This gives users predictable access to core pages, improving usability and accessibility.
+
+---
+
+### 🔷 Content Placement
+
+**Definition:**  
+This refers to where key content elements—like text blocks, images, buttons, or forms—are positioned on the page.
+
+**Example Contribution:**  
+In a product detail page wireframe, placing the product image on the left and the price, title, and “Add to Cart” button on the right aligns with standard e-commerce design patterns, creating an intuitive and familiar layout.
+
+---
+
+### 🔷 Functionality
+
+**Definition:**  
+Functionality elements indicate what actions the user can take—such as submitting a form, clicking a button, or opening a dropdown menu. While wireframes don’t include working interactions, they map out where they will occur.
+
+**Example Contribution:**  
+A login page wireframe might show two input fields for username and password, a "Login" button, and a "Forgot Password?" link. This outlines user expectations and functional flow, even before any real design or coding begins.
+
+---
+
+Each of these elements contributes to designing a user-friendly, effective interface by focusing on usability and clarity before visual aesthetics.
